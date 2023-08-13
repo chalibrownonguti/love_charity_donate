@@ -1,0 +1,15 @@
+current directory: /home/motari/Practise/love_charity_donate/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+/home/motari/.rbenv/versions/3.1.4/bin/ruby -I /home/motari/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/motari/Practise/love_charity_donate/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230813-34004-fc82os sitelibdir\=./.gem.20230813-34004-fc82os clean
+
+current directory: /home/motari/Practise/love_charity_donate/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230813-34004-fc82os sitelibdir\=./.gem.20230813-34004-fc82os
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/motari/Practise/love_charity_donate/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230813-34004-fc82os sitelibdir\=./.gem.20230813-34004-fc82os install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20230813-34004-fc82os/bootsnap

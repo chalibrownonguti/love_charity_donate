@@ -1,0 +1,16 @@
+current directory: /home/motari/Practise/love_charity_donate/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+/home/motari/.rbenv/versions/3.1.4/bin/ruby -I /home/motari/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/motari/Practise/love_charity_donate/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230813-34004-waqjos sitelibdir\=./.gem.20230813-34004-waqjos clean
+
+current directory: /home/motari/Practise/love_charity_donate/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230813-34004-waqjos sitelibdir\=./.gem.20230813-34004-waqjos
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/motari/Practise/love_charity_donate/vendor/bundle/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230813-34004-waqjos sitelibdir\=./.gem.20230813-34004-waqjos install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20230813-34004-waqjos/debug
